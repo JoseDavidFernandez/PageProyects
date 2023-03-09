@@ -1,7 +1,5 @@
-# Project Title: Page Project
-En está página donde se encuentran los mejores proyectos que he realizado.
-
- - [Sitio Web](https://josedavidfernandez.github.io/Coffee-Blog/)
+# Project Title: Page Project / Portfolio
+Esta página es un Portafolio donde se encuentran los mejores proyectos que he realizado.
 
 ## Authors
 - [@JoseDavidFernandez](https://github.com/JoseDavidFernandez)
