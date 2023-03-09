@@ -1,5 +1,5 @@
 # Project Title: Page Project
-Página creado con Bootstrap. En está página donde se encuentran los mejores proyectos que he realizado.
+En está página donde se encuentran los mejores proyectos que he realizado.
 
  - [Sitio Web](https://josedavidfernandez.github.io/Coffee-Blog/)
 
